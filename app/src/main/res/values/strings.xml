@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QRCodeBuilder</string>
+    <string name="buildMessage">BuildMessage</string>
+    <string name="openFile">OpenFile</string>
+    <string name="message">Message</string>
+    <string name="file">File</string>
+    <string name="build">Build</string>
+    <string name="buildImage">buildImage</string>
+    <string name="scanImage">scanImage</string>
+    <string name="builder">Builder</string>
+    <string name="scanner">Scanner</string>
+    <string name="qrCode">QRCode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="paragraph">Paragraph</string>
+</resources>
