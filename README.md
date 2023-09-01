@@ -13,6 +13,3 @@ With firebase storage the files is stored anonymously, allowing the app to turn 
 ![Screenshot 2023-09-01 152810](https://github.com/DomingoJohnlery/QR-Share/assets/124936918/9e84367f-4cd7-4955-bdb5-b9773ff827e2)
 5. Set Firebase Cloud Storage & Create a Firebase Storage In Your Firebase Project
 ![Screenshot 2023-09-01 153356](https://github.com/DomingoJohnlery/QR-Share/assets/124936918/6dc2c12c-ffd9-41eb-8824-6a18967f190c)
-
-Firebase Authentication & Cloud Storage is all you need.
-![Screenshot 2023-09-01 153939](https://github.com/DomingoJohnlery/QR-Share/assets/124936918/8c4eab7c-53de-4072-87b7-834f71ee9035)
