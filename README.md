@@ -4,7 +4,6 @@ With firebase storage the files is stored anonymously, allowing the app to turn 
 
 # Connect Your Own Firebase Project?
 1. In Android Studio Go To Tools > Firebase
-![Screenshot 2023-09-01 151620](https://github.com/DomingoJohnlery/QR-Share/assets/124936918/ed919f8e-cf8e-48e7-a115-feb2e2e0af94)
 2. Go To Authentication > Authenticate Using a Custom Authentication System
 ![image](https://github.com/DomingoJohnlery/QR-Share/assets/124936918/26ee7402-4e67-41ab-b370-eb03a0bfd79d)
 3. Connect Your App To Firebase & Add The Firebase Authentication SDK To Your App
